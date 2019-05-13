@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.12)
-project(BaekJun C CXX)
+project(algorithm C CXX)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_FLAGS "-std=c++11")
 
 find_package(Threads REQUIRED)
 
-add_subdirectory(dp_problems)
-add_subdirectory(search)
+add_subdirectory(baekjune)
+add_subdirectory(leetcode)
