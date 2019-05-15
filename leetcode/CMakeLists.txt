@@ -5,3 +5,4 @@ set_source_files_properties(
 
 add_executable(twosum twosum.cc)
 add_executable(anagram anagram.cc)
+add_executable(reverse_integer reverse_integer.cc)
