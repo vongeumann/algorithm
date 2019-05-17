@@ -8,3 +8,4 @@ find_package(Threads REQUIRED)
 
 add_subdirectory(baekjune)
 add_subdirectory(leetcode)
+add_subdirectory(practice)

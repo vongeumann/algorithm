@@ -1,5 +1,7 @@
 set_source_files_properties(
         twosum.cc
+        anagram.cc
+        reverse_integer.cc
         PROPERTIES COMPILE_FLAGS -std=c++11
 )
 
